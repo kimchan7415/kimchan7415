@@ -1,8 +1,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimchan7415%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<h1 align="center">안녕하세요 김찬입니다.</h1>
-<h3 align="center">백앤드, 응용프로그램, 게임 개발자 입니다.</h3>
+<p align="center">안녕하세요. 김찬입니다.</p>
+<p align="center">Hello, I'm Kim Chan.</p>
+<p align="center">백앤드, 응용프로그램, 게임 개발자 입니다.</p>
+<p align="center">Backend, application, and game developer.</p>
 
-<h3 align="left">Connect with me:</h3>
+<p align="left">Connect with me: kimchan7415@gmail.com</p>
 <p align="left">
 </p>
 
